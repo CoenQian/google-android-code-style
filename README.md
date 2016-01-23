@@ -1,4 +1,4 @@
-# Google-Android-Code-Style
+# google-android-code-style
 
 Google's android code style for intellij(Android Studio)
 
